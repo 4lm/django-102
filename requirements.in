@@ -1,0 +1,6 @@
+# production
+Django
+psycopg2
+
+# development
+pip-tools
