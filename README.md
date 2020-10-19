@@ -6,6 +6,9 @@
 
 Windows installation:
 
-- GDAL [core binaries (Windows)](https://www.gisinternals.com/query.html?content=filelist&file=release-1911-x64-gdal-3-1-3-mapserver-7-6-1.zip)
+- Install miniconda (set PATH on install), then install GDAL binaries:
+```bash
+conda install gdal
+```
 - GDAL [python bindings](https://pypi.org/project/GDAL/)
 - GDAL [python wheel (Windows)](https://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal)

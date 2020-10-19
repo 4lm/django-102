@@ -1,6 +1,8 @@
 # production
 Django
 psycopg2
+GDAL
+python-decouple
 
 # development
 pip-tools
